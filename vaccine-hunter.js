@@ -55,7 +55,7 @@ const hunt = async (state) => {
   }
 }
 
-cron.schedule('* * * * *', function () {
+cron.schedule('*/15  * * * *', function () {
   console.log('---------------------')
   console.log('Running Hunter')
 
