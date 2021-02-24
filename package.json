@@ -1,0 +1,20 @@
+{
+  "name": "vaccines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vaccines.js",
+  "scripts": {
+    "start": "node vaccine-hunter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.4.18"
+  }
+}
