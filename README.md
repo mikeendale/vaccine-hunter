@@ -1,4 +1,4 @@
-# vaccine-hunter.js
+# vaccine-hunter.js 💉
 
 Checking vaccination appointment for my elderly parents is really difficult and annoying so, I built an app that checks CVS site every 15 minutes and emails me of the status. Fork it and make it your own. If you want your email added to this list, email vaccinehunter51 [at] gmail [dot] com and will add you to the distribution list.
 
